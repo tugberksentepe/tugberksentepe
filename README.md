@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğberk Şentepe</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">I'm Computer Engineering student from Turkiye</h3>
 
 <p >
 </br>
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugberksentepe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tugberksentepe" height="165"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugberksentepe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tugberksentepe" height="165"/>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugberksentepe&show_icons=true&locale=en&theme=tokyonight" alt="tugberksentepe" height="165"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tugberksentepe&theme=tokyonight" alt="tugberksentepe" />
