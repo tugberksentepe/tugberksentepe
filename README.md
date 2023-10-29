@@ -10,8 +10,8 @@
 
 - 👀 I’m interested in **Software Development**.
 - 🌱 I'm currently study **Computer Engineer**.
-- 👨🏻‍💻️ I am open to working in any field related computer engineering where I can improve myself.
-- 💻 I am looking for a job that I can work after my graduation
+- 👨🏻‍💻️ I'm open to working in any field related computer engineering where I can improve myself.
+- 💻 I'm looking for a job that I can work after my graduation
 - 🤝 I’m available for freelancing.
 - 📫 How to reach me **sentepetugberk@hotmail.com**
 
