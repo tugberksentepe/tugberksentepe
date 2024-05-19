@@ -5,7 +5,6 @@
 <h3 align="left"> 💫 About Me: </h3>
 
 - 👀 I’m interested in **Software Development**.
-- 🌱 I'm currently study **Computer Engineer**.
 - 👨🏻‍💻️ I'm open to working in any field related computer engineering where I can improve myself.
 - 💻 I'm looking for a job that I can work after my graduation
 - 🤝 I’m available for freelancing.
@@ -25,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=cs" title="C#">
     <img src="https://skillicons.dev/icons?i=java" title="Java">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
-    <img src="https://skillicons.dev/icons?i=solidity" title="Solidity">
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript">
@@ -34,10 +32,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="SQL Server">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=git" title="Git">
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman">
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker">
 
 </p>
 
