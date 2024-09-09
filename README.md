@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tuğberk Şentepe</h1>
-<h3 align="center">I'm Computer Engineering student from Turkiye</h3>
+<h3 align="center">I'm Software Developer from Turkiye</h3>
 
 
 <h3 align="left"> 💫 About Me: </h3>
 
-- 👀 I’m interested in **Software Development**.
-- 👨🏻‍💻️ I'm open to working in any field related computer engineering where I can improve myself.
-- 💻 I'm looking for a job that I can work after my graduation
+- 👨🏻‍💻️ I'm open to working in any field where I can improve myself.
 - 🤝 I’m available for freelancing.
 - 📫 How to reach me **sentepetugberk@hotmail.com**
 
