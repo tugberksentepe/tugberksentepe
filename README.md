@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğberk Şentepe</h1>
-<h3 align="center">I'm Software Developer from Turkiye</h3>
+<h3 align="center">I'm Software Developer from Türkiye</h3>
 
 
 <h3 align="left"> 💫 About Me: </h3>
