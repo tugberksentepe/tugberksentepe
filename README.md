@@ -7,7 +7,7 @@
 ## 💫 About Me
 - 👨‍💻 Software Developer
 - 🎓 Computer Engineer | Kırıkkale University Graduate (1st in Department)
-- 🚀 Passionate about Web Development, Artificial Intelligence and Game Development
+- 🚀 Passionate about Web Development & Artificial Intelligence | Game Development (as a Hobby)  
 - 📫 How to reach me: **sentepetugberk@hotmail.com**
 
 ## 🔗 Connect with me
