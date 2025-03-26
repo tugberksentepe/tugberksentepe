@@ -7,7 +7,7 @@
 ## 💫 About Me
 - 👨‍💻 Software Developer
 - 🎓 Computer Engineer | Kırıkkale University Graduate (1st in Department)
-- 🚀 Passionate about Web Development & Artificial Intelligence | Game Development (as a Hobby)  
+- 🚀 Passionate about Backend Development & Artificial Intelligence | Game Development (as a Hobby)  
 - 📫 How to reach me: **sentepetugberk@hotmail.com**
 
 ## 🔗 Connect with me
@@ -22,18 +22,17 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" title="Spring" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="SQL Server"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Docker" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -42,7 +41,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=tugberksentepe&show_icons=true&locale=en&theme=tokyonight" alt="tugberksentepe" height="165"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugberksentepe&theme=tokyonight" alt="tugberksentepe" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugberksentepe&theme=tokyonight" alt="tugberksentepe" height="165"/>
 </div>
 
 <div align="center">
